@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "372477280370",
+    "project_id": "packing-jam",
+    "storage_bucket": "packing-jam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372477280370:ios:adfa5eb24285b1d7cc82eb",
+        "android_client_info": {
+          "package_name": "com.puzzle.bottlejam.packing.game"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzmKvp0AQYmo4lck7jsm6B2786hl_rKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
